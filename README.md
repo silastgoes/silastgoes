@@ -1,4 +1,4 @@
-### Hi there, this is the Silas T. Goes's Github 👋
+# Hi there, this is the Silas T. Goes's Github 👋
 
 <!--
 **silastgoes/silastgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
