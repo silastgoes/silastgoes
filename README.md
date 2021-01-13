@@ -12,6 +12,8 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
+👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+
 <!--
 **silastgoes/silastgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
