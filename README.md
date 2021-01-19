@@ -14,10 +14,10 @@
 
 :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> 
  
-🔭projetos hospedados no github [aqui](https://silastgoes.github.io/Main/)
+🔭projetos hospedados no github /projects hosted on github [aqui/here](https://silastgoes.github.io/Main/)
 
-1-Minhas [Recomendações](https://silastgoes.github.io/Main/recomendacoes/index.html)
-2-Réplica [site Google Glass](https://silastgoes.github.io/Main/googleglass/index.html) 
+1. Minhas/My [Recomendações/Recommendations](https://silastgoes.github.io/Main/recomendacoes/index.html)
+2. Réplica/Replica [site Google Glass](https://silastgoes.github.io/Main/googleglass/index.html) 
 <!--
 **silastgoes/silastgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
