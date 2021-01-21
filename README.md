@@ -12,9 +12,9 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
-:books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> 
- 
-🔭projetos hospedados no github /projects hosted on github [aqui/here](https://silastgoes.github.io/Main/)
+- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> 
+- 📫contato/contact = silastgoes@protonmail.com
+- 🔭projetos hospedados no github /projects hosted on github [aqui/here](https://silastgoes.github.io/Main/)
 
 1. Minhas/My [Recomendações/Recommendations](https://silastgoes.github.io/Main/recomendacoes/index.html)
 2. Réplica/Replica [site Google Glass](https://silastgoes.github.io/Main/googleglass/index.html) 
