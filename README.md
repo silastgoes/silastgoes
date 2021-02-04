@@ -14,7 +14,7 @@
 
 - :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> 
 - 📫contato/contact = silastgoes@protonmail.com
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/01naveenv/)
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/silastelesgoes/)
 - 🔭projetos hospedados no github /projects hosted on github [aqui/here](https://silastgoes.github.io/Main/)
 
 Minhas/My [Recomendações/Recommendations](https://silastgoes.github.io/Main/recomendacoes/index.html)
